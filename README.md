@@ -23,7 +23,7 @@
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub 分析
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AirGHub&show_icons=true&theme=nightowl&hide_border=true&count_private=true&include_all_commits=true" />
