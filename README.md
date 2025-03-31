@@ -43,7 +43,7 @@
 ### 📬 联系我
 
 <p align="center">
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:3026710475@qq.com">
     <img src="https://img.shields.io/badge/📧_Email-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white" />
   </a>
   <a href="https://t.me/yourchannel">
