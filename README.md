@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img   align="left" src="https://github-readme-stats.vercel.app/api?username=AirGHub&locale=en&line_height=33&show_icons=true&hide=&theme=radical&rank_icon=default&custom_title=AirGHub"/>
+<img   align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AirGHub&locale=en&line_height=33&theme=radical&langs_count=10&layout=donut&custom_title=Languages"/>
