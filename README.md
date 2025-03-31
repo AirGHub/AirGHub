@@ -32,29 +32,28 @@
 
 ---
 
-### 🔥 Recent Activity
+### 🏆 成就墙
 
-<!--START_SECTION:activity-->
-1. 🎉 Created new project [project-name]
-2. 🚀 Released v1.0.0 of [project-name]
-3. ⭐ Starred [awesome-repo]
-4. 🛠️ Fixed bug in [project-name]
-<!--END_SECTION:activity-->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AirGHub&theme=onedark&row=2&column=4&margin-w=15&margin-h=15" />
+</p>
 
 ---
 
-### 📫 Let's Connect
+### 📬 联系我
 
 <p align="center">
   <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/📧_Email-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://t.me/yourchannel">
+    <img src="https://img.shields.io/badge/💬_Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <a href="https://blog.yourdomain.com">
+    <img src="https://img.shields.io/badge/✍️_Blog-FF5722?style=flat-square&logo=blogger&logoColor=white" />
   </a>
 </p>
+
+---
 
 ![Snake animation](https://github.com/AirGHub/AirGHub/blob/output/github-contribution-grid-snake.svg)
